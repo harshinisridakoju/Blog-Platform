@@ -70,32 +70,6 @@ Blog-Platform/
 
 ---
 
-## 🚀 Future Improvements
-
-This project will be gradually upgraded into a complete full-stack blogging platform.
-
-Planned features include:
-
-* User Authentication (JWT)
-* MongoDB Database Integration
-* Create/Edit/Delete Blog Posts
-* Real Comment System
-* User Profiles
-* Blog Categories
-* Search & Filters
-* Likes & Bookmarks
-* Image Uploads
-* Admin Dashboard
-* REST APIs
-* Secure Authentication
-* Responsive Dashboard
-* Dark Mode
-* Notifications
-* Rich Text Editor
-* Deployment with MongoDB Atlas
-
----
-
 ## ⚠️ Current Project Status
 
 This repository currently serves as a **UI Demo / Prototype** created to showcase the frontend design and user experience.
